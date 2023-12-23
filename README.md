@@ -1,2 +1,2 @@
 # fatec
-basic codes
+basic codes for practicing
