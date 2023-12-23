@@ -1,0 +1,5 @@
+chefe=input("Insira o nome do chefe do cliente: ")
+cliente=input("Insira o nome do cliente: ")
+evento=input("Insira o nome do evento: ")
+entrada=float(input("Insira o valor da entrada: "))
+print("Declaro para o senhor "+chefe+" que o senhor "+cliente+" esteve presente no evento "+evento+" e gastou o valor de "+str(entrada)+" com a entrada")
