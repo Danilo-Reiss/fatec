@@ -1,0 +1,2 @@
+# fatec
+basic codes
